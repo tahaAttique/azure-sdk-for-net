@@ -176,3 +176,4 @@ artifacts
 
 # Temporary typespec folders for typespec generation
 TempTypeSpecFiles/
+config.bat
